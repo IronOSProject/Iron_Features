@@ -1,0 +1,46 @@
+# Raphael Device Changelog 09/01/2022
+
+- Initial build with A11 Firmware
+- Switch to Spark device tree (thanks @naveenjohnson)
+- Build with Englezos Kernel (thanks @penglezos)
+
+Flash instructions:
+
+- Always make a Nand Backup. Be safe
+- *OSS Vendor* based build
+- A11 Firmware is needed
+- If you are on the previous version (Iron 2.0) it is mandatory to do a cleanflash
+
+Clean Flash:
+1) Wipe cache, dalvik, system, vendor and data
+ 
+2) Flash last A11 Firmware for your region
+
+3) Flash Rom
+
+4) Flash Gapps
+
+5) Flash DFE if you don't want to be encrypted, otherwise you need the format data
+
+6) reboot system
+
+
+Dirty Flash (for all versions after 2.1):
+
+1) Wipe cache and dalvik
+
+2) Flash Rom
+
+3) Flash Gapps
+
+4) Flash DFE if you are decrypted
+
+5) reboot system
+
+
+* NOTE: 
+
+Only report bugs if you have done CLEAN FLASH
+
+
+Enjoy the ROM !!
