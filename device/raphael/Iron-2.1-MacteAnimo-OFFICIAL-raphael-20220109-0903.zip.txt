@@ -4,8 +4,14 @@
 - Switch to Spark device tree (thanks @naveenjohnson)
 - Build with Englezos Kernel (thanks @penglezos)
 
-Flash instructions:
 
+Note:
+*** if anyone has deepsleep problems with this build, in the telegram group ( https://t.me/ralf979street ) you can find a build that fixes this problem.
+
+
+Flash instructions:
+- Before flashing, make sure you have unofficial @naveenjohnson recovery (orangefox / Twrp)
+  if you don't have these, you can find the links in the general telegram group or in the rom telegram group
 - Always make a Nand Backup. Be safe
 - *OSS Vendor* based build
 - A11 Firmware is needed
