@@ -1,3 +1,39 @@
+# Iron PROJECT 2.2 08/02/2022
+
+- Merged February security patch
+- Qs columns count settings & vertical qs tile layout settings
+- Pitch black
+- Allow forcing small keyguard clock
+- Advanced Gesture
+- Udfps haptic feedback optional
+- Screen off FOD
+- Ambient Edge Pulse Customization
+- Double tap to trigger doze
+- AOD QS tile
+- statusbar NFC icon
+- hiding navbar
+- Optional haptic feedback on back gesture
+- navigation mode settings
+- Remove aosp's 'show battery percentage' setting …
+- Screenrecord improvement
+- battery bar customization
+- statusbar battery customization
+- Show a bolt zap when charging …
+- toggle to disable wired charging animation
+- dash/Warp/VOOC/SuperDart charging support …
+- Lockscreen Charging
+- Custom (User Selected) UDFPS Icon
+- Bring back Udfps icons
+- Bring back Udfps animations
+- Statusbar brightness control
+- Brightness slider changes
+- Fix half black wallpaper after rotating quickly 
+- Fix Photosphere/Camera FCs …
+- Fixup: "Fix net traffic view being white on QQS Header"
+- Battery: Add option to disable led after full charging
+- Battery light customization 
+- Allow to disable qs footer warnings
+
 # Iron PROJECT 2.1 09/01/2022
 
 - Merged January security patch
